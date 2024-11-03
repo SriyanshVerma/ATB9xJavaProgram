@@ -1,0 +1,4 @@
+package Task.Task_03102024;
+
+public class Lab002 {
+}
